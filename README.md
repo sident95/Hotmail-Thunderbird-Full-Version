@@ -240,4 +240,4 @@ This repository serves as the official landing page for Hotmail for Thunderbird.
 **Get the most recent version of Hotmail for Thunderbird today!**
 
 ---
-**Last updated:** 2026-10-16 01:01:56 UTC
+**Last updated:** 2026-10-16 06:49:33 UTC
